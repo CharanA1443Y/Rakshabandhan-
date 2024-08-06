@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Rakshabandhan!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #e94e77;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .message {
+            margin-top: 20px;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Happy Rakshabandhan, [Pravalika]!</h1>
+        <img src="https://via.placeholder.com/600x300" alt="Rakshabandhan Celebration">
+        <div class="message">
+            <p>Wishing you a joyous Rakshabandhan filled with happiness and love. Thank you for always being there for me. Here's to celebrating the bond we share!</p>
+            <p>With love,<br>[Charan]</p>
+        </div>
+    </div>
+</body>
+</html>
